@@ -1,5 +1,5 @@
 { "name": "@godmodelabs/busboy",
-  "version": "0.2.14",
+  "version": "0.2.15",
   "author": "Brian White <mscdex@mscdex.net>",
   "description": "A streaming parser for HTML form data for node.js",
   "main": "./lib/main",
