@@ -4,7 +4,7 @@
   "description": "A streaming parser for HTML form data for node.js",
   "main": "./lib/main",
   "dependencies": {
-    "dicer": "0.2.5"
+    "@godmodelabs/dicer": "0.2.5"
   },
   "scripts": {
     "test": "node test/test.js"
